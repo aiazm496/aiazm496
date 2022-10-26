@@ -1,5 +1,5 @@
 - 👋 Hi, Akash here..
-- 👀 I’m interested in working on software programming in Java or Python or Scala.
+- 👀 I’m interested in working on software programming projects in Java or Python or Scala.
 - 🌱 I’m currently learning handling Big data. Tech stack -> Hadoop, Spark, Hive, Hbase, Spark Structured API , Sqoop.
 - 💞️ I’m looking to collaborate on developing Big data processing system. 
 - 📫 You can reach out to me -> aiazm496@gmail.com

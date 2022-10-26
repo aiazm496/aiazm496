@@ -1,6 +1,6 @@
 - 👋 Hi, Akash here..
-- 👀 I’m interested in working on software programming in Java or Python.
-- 🌱 I’m currently learning Core Java.
-- 💞️ I’m looking to collaborate on Java Web development projects, Python Machine learning models.
+- 👀 I’m interested in working on software programming in Java or Python or Scala.
+- 🌱 I’m currently learning handling Big data. Tech stack -> Hadoop, Spark, Hive, Hbase, Spark Structured API , Sqoop.
+- 💞️ I’m looking to collaborate on developing Big data processing system. 
 - 📫 You can reach out to me -> aiazm496@gmail.com
-
+- If you are stuck at something in your project, please do reach out. I would be happy to find a solution.
